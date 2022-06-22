@@ -1,2 +1,2 @@
 # chinese-inverse-text-normalization
-generally based on Regular Expression
+generally based on Regular Expression and python3
