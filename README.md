@@ -8,3 +8,7 @@ Secondly, creating a function to transfer text to number, which is the main func
 
 Finally, transferring different formats of text(date, money, digits, number, fraction)
 
+For the English version, the main logic of the code is similar, but the biggest difference
+is that English sentences consist of words rather than characters. And the matching based on
+words are more complex because the regex could not tackle with some specific situations.
+
