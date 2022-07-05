@@ -1,5 +1,4 @@
-# chinese-inverse-text-normalization
-generally based on Regular Expression and python3
+This code is generally based on Regular Expression and python3
 
 Firstly, creating the values and classes to represent the number related text.
 Such as '零一二三四五' --> zero, one, two, three, four, five
